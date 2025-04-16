@@ -7,7 +7,7 @@ function setDialogVisibility(dialogId, isVisible) {
 }
 
 function joinDiscord() {
-    window.open("https://discord.com/invite/freelives");
+    window.open("https://discord.gg/qkTGc2BPma");
 }
 
 function showPressKit() {
